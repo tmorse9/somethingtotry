@@ -1,0 +1,8 @@
+flask
+pymongo
+gunicorn==19.6.0
+nose
+flask-pymongo
+flask-login
+flask-bootstrap
+flask_nav
